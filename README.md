@@ -12,6 +12,8 @@
 
 다운로드 및 설치
  - 상단의 HappyLifeDiary.apk 파일을 클릭하여 다운로드합니다.
+   또는 아래 링크를 클릭해서 다운로드합니다.
+   https://github.com/Young-gak/HappyLifeDiary/raw/main/HappyLifeDiary-debug.apk
  - 안드로이드 기기에서 설치를 진행합니다.
    (갤럭시 노트 20 울트라, 갤럭시 S24 울트라, 갤럭시 S24+에서만 앱 테스트했습니다.)
 
