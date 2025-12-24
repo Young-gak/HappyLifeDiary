@@ -11,7 +11,7 @@
    - 검색 결과에 관련된 일기 공유
 
 다운로드 및 설치
- - 상단의 HappyLifeDiary.apk 파일을 클릭하여 다운로드합니다.
+ - 상단의 HappyLifeDiary-debug.apk 파일을 클릭하여 다운로드합니다.
    또는 다음 링크를 클릭해서 다운로드합니다.
    https://github.com/Young-gak/HappyLifeDiary/raw/main/HappyLifeDiary-debug.apk
  - 안드로이드 기기에서 설치를 진행합니다.
